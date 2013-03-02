@@ -1,4 +1,4 @@
-WordPress-Starter-Theme
-=======================
+# WordPress Thirty Twenty Themes.
 
-This starter theme gonna rule the World!
+#### Mark my Words.
+> It gonna rule the World
